@@ -20,4 +20,3 @@ urlpatterns = [
     path('v1/', include(jwt_urlpatterns)),
     path('v1/', include(router_v1.urls)),
 ]
-
