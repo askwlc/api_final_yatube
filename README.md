@@ -1,6 +1,10 @@
-Educational project 'API for social network "Yatube"'
+## **API for social network**
 
-### Как запустить проект:
+___
+
+**API for social network** - Educational project
+
+### Installation:
 
 Клонировать репозиторий и перейти в него в командной строке:
 
