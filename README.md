@@ -1,4 +1,4 @@
-# **API for social network**
+# **API for social network** 
 
 ![Python 3.7, 3.8](https://img.shields.io/badge/python-3.9-blue) ![django](https://img.shields.io/badge/Django-3.2-green)
 ___
